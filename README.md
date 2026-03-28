@@ -59,6 +59,34 @@
 </p>
 
 ---
+## 🚀 Projects
+
+### 🎯 Real-Time Interview System
+🔗 GitHub: https://github.com/yourusername/interview-system  
+📌 A smart interview platform that uses real-time eye tracking with OpenCV and YOLO to monitor candidate attention.
+
+**Features:**
+- Eye tracking and face detection for real-time monitoring  
+- Candidate performance insights during interviews  
+- User-friendly interface  
+
+**Tech Stack:** React, Node.js, Python, OpenCV, YOLO
+
+---
+
+### 💰 Finance Tracker App
+🔗 GitHub: https://github.com/yourusername/finance-tracker  
+📌 A simple application to track daily expenses, upcoming EMIs, and investments.
+
+**Features:**
+- Add, edit, and delete expenses  
+- Track upcoming EMIs  
+- Investment summary and suggestions  
+
+**Tech Stack:** React, Tailwind CSS, JavaScript
+
+
+
 
 ### 📬 Let's Connect!
 
@@ -70,3 +98,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
+
+
