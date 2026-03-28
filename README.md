@@ -75,7 +75,6 @@
 ---
 
 ### 💰 Finance Tracker App
-🔗 GitHub: https://mubashira031.github.io/finance-tracker  
 📌 A simple application to track daily expenses, upcoming EMIs, and investments.
 
 **Features:**
