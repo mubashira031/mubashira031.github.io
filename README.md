@@ -62,7 +62,7 @@
 ## 🚀 Projects
 
 ### 🎯 Real-Time Interview System
-🔗 GitHub: https://github.com/yourusername/interview-system  
+🔗 GitHub: https://mubashira031.github.io/Ai-Powered-Interview-sysetm/ 
 📌 A smart interview platform that uses real-time eye tracking with OpenCV and YOLO to monitor candidate attention.
 
 **Features:**
@@ -75,7 +75,7 @@
 ---
 
 ### 💰 Finance Tracker App
-🔗 GitHub: https://github.com/yourusername/finance-tracker  
+🔗 GitHub: https://mubashira031.github.io/finance-tracker  
 📌 A simple application to track daily expenses, upcoming EMIs, and investments.
 
 **Features:**
